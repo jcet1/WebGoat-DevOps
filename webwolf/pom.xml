@@ -8,7 +8,7 @@
         <artifactId>webgoat-parent</artifactId>
         <version>8.2.3-SNAPSHOT</version>
     </parent>
-
+    <!-- comentario Jose -->
     <dependencies>
     	<dependency>
 			<groupId>org.springframework.boot</groupId>
